@@ -23,3 +23,11 @@
 - [Strapi](https://strapi.io/)
 
 # FLUTTER ----------------------------------------------------
+
+## Tutorials
+
+## Plugin
+- [SpriteWidget](https://www.spritewidget.com/)
+
+## Demos & Projects
+- [Space Blast](https://github.com/spritewidget/spaceblast)
