@@ -18,7 +18,7 @@
 # JS ---------------------------------------------------------
 
 ## VueJS
- - https://flatlogic.com/blog/new-and-noteworthy-vue-js-open-source-projects-part-1/
+ - [OpenSource projects](https://flatlogic.com/blog/new-and-noteworthy-vue-js-open-source-projects-part-1/)
 
 ## CMS
 - [Strapi](https://strapi.io/)
