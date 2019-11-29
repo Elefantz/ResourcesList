@@ -41,4 +41,4 @@
 
 ## Demos & Projects
 - [Space Blast](https://github.com/spritewidget/spaceblast)
-- https://flutterawesome.com/tag/games/
+- [Flutter games](https://flutterawesome.com/tag/games/)
