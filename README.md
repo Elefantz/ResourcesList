@@ -28,7 +28,7 @@
 ## Tutorials
 - [Official Tutorials](https://flutter.dev/docs/reference/tutorials)
 - [TutorialsPoint](https://www.tutorialspoint.com/flutter/index.htm)
-- []()
+- [Udacity Course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 
 ## Games
 - https://blog.geekyants.com/building-a-2d-game-in-flutter-a-comprehensive-guide-913f647846bc
