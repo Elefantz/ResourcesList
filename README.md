@@ -29,6 +29,9 @@
 - [Official Tutorials](https://flutter.dev/docs/reference/tutorials)
 - [TutorialsPoint](https://www.tutorialspoint.com/flutter/index.htm)
 - [Udacity Course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+- [Udemy Course](https://www.udemy.com/course/learn-flutter-beginners-course/)
+- [Flutter Crash Course](https://fluttercrashcourse.com/)
+- [Free resources to learn and advance in Flutter](https://medium.com/flutter-community/free-resources-to-learn-and-advance-in-flutter-e07875ffc825)
 
 ## Games
 - https://blog.geekyants.com/building-a-2d-game-in-flutter-a-comprehensive-guide-913f647846bc
