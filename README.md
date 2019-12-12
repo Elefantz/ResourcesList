@@ -19,6 +19,11 @@
 
 ## VueJS
  - [OpenSource projects](https://flatlogic.com/blog/new-and-noteworthy-vue-js-open-source-projects-part-1/)
+ - [i18n](https://github.com/kazupon/vue-i18n)
+ - [Liquor Tree](https://github.com/amsik/liquor-tree)
+ - [Vee-Validate form validation](https://github.com/logaretm/vee-validate)
+ 
+ 
 
 ## CMS
 - [Strapi](https://strapi.io/)
