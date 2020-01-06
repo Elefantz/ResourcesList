@@ -7,6 +7,7 @@
 ## Design System
 - [DesignSystemRepo](https://designsystemsrepo.com/)
 - [Diez - The Design Language Framework](https://diez.org/)
+- [7 requirements of a holistic Design System](https://uxdesign.cc/7-requirements-of-a-holistic-design-system-154fd6bdd9a5)
 
 ## Ressources
 - [Open source illustrations kit](https://illlustrations.co/)
