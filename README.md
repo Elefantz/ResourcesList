@@ -11,6 +11,7 @@
 
 ## Ressources
 - [Open source illustrations kit](https://illlustrations.co/)
+- [WorldVectorLogos](https://worldvectorlogo.com/fr)
 
 # CSS --------------------------------------------------------
 
