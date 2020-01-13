@@ -25,7 +25,8 @@
  - [Liquor Tree](https://github.com/amsik/liquor-tree)
  - [Vee-Validate form validation](https://github.com/logaretm/vee-validate)
  
- 
+## Misc
+ - [IE11 Polyfill for CSS Custom Properties](https://github.com/nuxodin/ie11CustomProperties?new=1)
 
 ## CMS
 - [Strapi](https://strapi.io/)
