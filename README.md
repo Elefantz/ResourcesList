@@ -5,6 +5,9 @@
 ## Adobe XD
 ### Resources
 - [XDGuru](https://www.xdguru.com/)
+- [Adobe Resources](https://www.adobe.com/fr/products/xd/resources.html)
+- [XDResources](https://xdresources.co/)
+- [XD Freebies](https://freebiesui.com/xd-freebies/)
 
 ## Design System
 - [DesignSystemRepo](https://designsystemsrepo.com/)
