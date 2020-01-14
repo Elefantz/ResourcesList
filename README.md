@@ -3,6 +3,8 @@
 ## Général
 
 ## Adobe XD
+### Resources
+- [XDGuru](https://www.xdguru.com/)
 
 ## Design System
 - [DesignSystemRepo](https://designsystemsrepo.com/)
