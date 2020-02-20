@@ -1,6 +1,7 @@
 # DESIGN ------------------------------------------------------
 
 ## Général
+- [TinyHelpers](https://tiny-helpers.dev/)
 
 ## Adobe XD
 ### Resources
@@ -26,16 +27,29 @@
 # JS ---------------------------------------------------------
 
 ## VueJS
+
+### Generic
  - [OpenSource projects](https://flatlogic.com/blog/new-and-noteworthy-vue-js-open-source-projects-part-1/)
+ 
+### Frameworks
+ - [Quasar Framework](https://quasar.dev/)
+ 
+### Plugins
  - [i18n](https://github.com/kazupon/vue-i18n)
- - [Liquor Tree](https://github.com/amsik/liquor-tree)
  - [Vee-Validate form validation](https://github.com/logaretm/vee-validate)
+ - [Vue-API-Query](https://github.com/robsontenorio/vue-api-query)
+ 
+### Components
+ - [Liquor Tree](https://github.com/amsik/liquor-tree)
+ - [Vue Page Transition](https://github.com/Orlandster/vue-page-transition)
+ - [Vue Plyr](https://github.com/redxtech/vue-plyr)
  
 ## Misc
  - [IE11 Polyfill for CSS Custom Properties](https://github.com/nuxodin/ie11CustomProperties?new=1)
 
 ## CMS
 - [Strapi](https://strapi.io/)
+- [UserbaseJS](https://github.com/encrypted-dev/userbase)
 
 # FLUTTER ----------------------------------------------------
 
