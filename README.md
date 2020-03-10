@@ -40,6 +40,7 @@
  - [i18n](https://github.com/kazupon/vue-i18n)
  - [Vee-Validate form validation](https://github.com/logaretm/vee-validate)
  - [Vue-API-Query](https://github.com/robsontenorio/vue-api-query)
+ - [VueFormulate - The easiest way to build forms with Vue](https://vueformulate.com/)
  
 ### Components
  - [Liquor Tree](https://github.com/amsik/liquor-tree)
