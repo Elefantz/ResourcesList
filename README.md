@@ -21,6 +21,7 @@
 ## Ressources
 - [Open source illustrations kit](https://illlustrations.co/)
 - [WorldVectorLogos](https://worldvectorlogo.com/fr)
+- [webdesigntoolbox](https://webdesigntoolbox.com/)
 
 # CSS --------------------------------------------------------
 
@@ -49,10 +50,16 @@
  
 ## Misc
  - [IE11 Polyfill for CSS Custom Properties](https://github.com/nuxodin/ie11CustomProperties?new=1)
+ - [TecturesJS](https://riccardoscalco.it/textures/?ref=webdesignernews.com)
 
 ## CMS
 - [Strapi](https://strapi.io/)
 - [UserbaseJS](https://github.com/encrypted-dev/userbase)
+
+# PENS -------------------------------------------------------
+
+- [3D Banners](https://codepen.io/supamike/full/KKVqXmR)
+
 
 # FLUTTER ----------------------------------------------------
 
