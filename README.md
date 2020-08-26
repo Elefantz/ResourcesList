@@ -23,6 +23,10 @@
 - [WorldVectorLogos](https://worldvectorlogo.com/fr)
 - [webdesigntoolbox](https://webdesigntoolbox.com/)
 
+## Fonts
+- [Manrope](https://manropefont.com/)
+- [Urbanist](https://github.com/coreywho/Urbanist)
+
 # UX ---------------------------------------------------------
 
 - [UX Checklist](https://uxchecklist.github.io/)
