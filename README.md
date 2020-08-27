@@ -59,6 +59,7 @@
 ## Misc
  - [IE11 Polyfill for CSS Custom Properties](https://github.com/nuxodin/ie11CustomProperties?new=1)
  - [TecturesJS](https://riccardoscalco.it/textures/?ref=webdesignernews.com)
+ - [Morphing SVG with React Spring](https://css-tricks.com/morphing-svg-with-react-spring/?ref=webdesignernews.com)
 
 ## CMS
 - [Strapi](https://strapi.io/)
