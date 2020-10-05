@@ -4,6 +4,7 @@
 - [TinyHelpers](https://tiny-helpers.dev/)
 - [Behaviour Design kit](https://behaviourkit.com/)
 - [App Mockup Generator for AppStore & PlayStore](https://app-mockup.com/)
+- [The Ultimate Guide to UX Research](https://maze.design/guides/ux-research)
 
 ## Adobe XD
 ### Resources
