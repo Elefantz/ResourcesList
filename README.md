@@ -6,6 +6,17 @@
 - [App Mockup Generator for AppStore & PlayStore](https://app-mockup.com/)
 - [The Ultimate Guide to UX Research](https://maze.design/guides/ux-research)
 
+## Chalenges
+- [SHARPEN](https://sharpen.design/)
+- [TheGoodBrief](http://goodbrief.io/)
+- [Daily Logo Challenge](https://dailylogochallenge.com/)
+- [Weekly Product Design Exercises](https://productdesigninterview.com/weekly-ux-product-design-exercise)
+- [DailyUI](https://www.dailyui.co/)
+- [WTF should I letter](https://wtfshouldiletter.com/)
+- [36 Days Of Type](http://www.36daysoftype.com/)
+- [Designercize](https://designercize.com/)
+
+
 ## Adobe XD
 ### Resources
 - [XDGuru](https://www.xdguru.com/)
